@@ -1,7 +1,8 @@
 # Yes_Bank_Stock_Closing_Price_Prediction
 ![yes2](https://github.com/Arthampatel/Yes_Bank_Stock_Closing_Price_Prediction/assets/140424795/f66c3bc6-fd03-4d8f-a36e-4a47c1d018e1)
 
-Overview Welcome to the repository for my capstone project titled "Yes Bank's Closing Price Prediction by Regression." This project focuses on predicting the closing price of Yes Bank's stock using regression techniques. By analyzing historical stock data and leveraging machine learning, we aim to develop a model that can provide accurate predictions, helping investors make informed decisions.
+**Overview**
+Welcome to the repository for my capstone project titled "Yes Bank's Closing Price Prediction by Regression." This project focuses on predicting the closing price of Yes Bank's stock using regression techniques. By analyzing historical stock data and leveraging machine learning, we aim to develop a model that can provide accurate predictions, helping investors make informed decisions.
 
 **Table of Contents**
 
@@ -9,7 +10,7 @@ Introduction The stock market is a dynamic environment where investors rely on a
 
 Dataset The dataset used for this project consists of historical stock data for Yes Bank, including features such as open price, high price, low price, trading volume, and, most importantly, closing price. This data is essential for training and evaluating regression models.
 
-Project Goals The primary objectives of this capstone project are:
+**Project Goals The primary objectives of this capstone project are:**
 
 To preprocess and prepare the stock data for regression analysis.
 To perform feature engineering to create relevant features for modeling.
@@ -27,4 +28,5 @@ To select the best-performing model and provide predictions for Yes Bank's closi
 
 5. Results The results section will present the findings of the regression analysis, including the performance of different models and their predictions for Yes Bank's closing prices.
 
-Conclusion This capstone project aims to provide a reliable predictive model for Yes Bank's closing prices, aiding investors and analysts in making informed decisions. The conclusion section will summarize the project's outcomes and potential future work.
+**Conclusion**
+This capstone project aims to provide a reliable predictive model for Yes Bank's closing prices, aiding investors and analysts in making informed decisions. The conclusion section will summarize the project's outcomes and potential future work.
