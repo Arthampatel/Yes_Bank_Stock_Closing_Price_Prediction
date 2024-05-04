@@ -15,8 +15,8 @@ To preprocess and prepare the stock data for regression analysis.
 To perform feature engineering to create relevant features for modeling.
 To implement and evaluate different regression models for price prediction.
 To select the best-performing model and provide predictions for Yes Bank's closing prices.
-**Methods Used**
 
+**Methods Used**
 1. Data Preprocessing Data preprocessing involves handling missing values, removing outliers, and ensuring data quality. Additionally, we will split the data into training and testing sets for model development and evaluation.
 
 2. Feature Engineering Feature engineering is a critical step where we create meaningful features that can influence the closing price prediction. It includes selecting relevant columns, transforming data, and creating new features when necessary.
