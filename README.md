@@ -3,7 +3,7 @@
 
 Overview Welcome to the repository for my capstone project titled "Yes Bank's Closing Price Prediction by Regression." This project focuses on predicting the closing price of Yes Bank's stock using regression techniques. By analyzing historical stock data and leveraging machine learning, we aim to develop a model that can provide accurate predictions, helping investors make informed decisions.
 
-Table of Contents
+**Table of Contents**
 
 Introduction The stock market is a dynamic environment where investors rely on accurate predictions to make decisions. This project aims to build a predictive model for Yes Bank's stock closing prices, helping investors and analysts gain insights into potential future price movements.
 
@@ -15,7 +15,7 @@ To preprocess and prepare the stock data for regression analysis.
 To perform feature engineering to create relevant features for modeling.
 To implement and evaluate different regression models for price prediction.
 To select the best-performing model and provide predictions for Yes Bank's closing prices.
-Methods Used
+**Methods Used**
 
 1. Data Preprocessing Data preprocessing involves handling missing values, removing outliers, and ensuring data quality. Additionally, we will split the data into training and testing sets for model development and evaluation.
 
