@@ -2,6 +2,7 @@
 ![yes2](https://github.com/Arthampatel/Yes_Bank_Stock_Closing_Price_Prediction/assets/140424795/f66c3bc6-fd03-4d8f-a36e-4a47c1d018e1)
 
 **Overview**
+
 Welcome to the repository for my capstone project titled "Yes Bank's Closing Price Prediction by Regression." This project focuses on predicting the closing price of Yes Bank's stock using regression techniques. By analyzing historical stock data and leveraging machine learning, we aim to develop a model that can provide accurate predictions, helping investors make informed decisions.
 
 **Table of Contents**
@@ -29,4 +30,5 @@ To select the best-performing model and provide predictions for Yes Bank's closi
 5. Results The results section will present the findings of the regression analysis, including the performance of different models and their predictions for Yes Bank's closing prices.
 
 **Conclusion**
+
 This capstone project aims to provide a reliable predictive model for Yes Bank's closing prices, aiding investors and analysts in making informed decisions. The conclusion section will summarize the project's outcomes and potential future work.
